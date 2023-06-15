@@ -5,9 +5,10 @@ export default function Home() {
   return (
   <>
   <div className='homepage'>
-    <div className="">
-      <Nav/>
+    <div className="home-title">
+      Your No 1 Website for Smartphones
     </div>
+    <div>phone</div>
   </div>
   </>
   )
