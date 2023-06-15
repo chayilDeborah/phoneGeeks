@@ -1,0 +1,44 @@
+[
+    {
+        "id": 1,
+        "name": "iPhone 14",
+        "specification": "4GB 128GB",
+        "price": "#725,000",
+        "image": "https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.amazon.co.uk%2FApple-iPhone-Plus-128-Starlight%2Fdp%2FB0BDHYZ6ZN&psig=AOvVaw2_UyjxOOjtVIA9n0yRXIdP&ust=1686237666163000&source=images&cd=vfe&ved=0CBEQjRxqFwoTCKC8rfu6sf8CFQAAAAAdAAAAABAK"
+    },
+    {
+        "id": 2,
+        "name": "iPhone 14 Plus",
+        "specification": "4GB 128GB",
+        "price": "₦900,000",
+        "image": "https://m.media-amazon.com/images/I/71pL8YGcoyL._AC_UF894,1000_QL80_.jpg"
+    },
+    {
+        "id": 3,
+        "name": "iPhone 8 Plus",
+        "specification": "4GB 128GB",
+        "price": "₦90,000",
+        "image": "https://res.cloudinary.com/dmye53wps/image/upload/v1686314040/iphone8_hlgkvy.png"
+    },
+    {
+        "id": "4",
+        "name": "Samsung Galaxy S20",
+        "specification": "",
+        "price": "₦225,000",
+        "image": "https://res.cloudinary.com/dmye53wps/image/upload/v1686315097/Screenshot_from_2023-06-09_13-50-58_xs25q5.png"
+    },
+    {
+        "id": "5",
+        "name": "",
+        "specification": "",
+        "price": "₦725,000",
+        "image": ""
+    },
+    {
+        "id": "6",
+        "name": "",
+        "specification": "",
+        "price": "₦ 725,000",
+        "image": "`"
+    }
+]
