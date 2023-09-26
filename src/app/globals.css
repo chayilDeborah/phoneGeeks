@@ -15,7 +15,7 @@ body {
 .homepage {
   background-color: #002866;
   height: 100%;
-  /* border-: 20%; */
+  /* border-radius: 30px; */
 }
 .nav-wrap {
   display: flex;
@@ -26,7 +26,7 @@ body {
 .nav-logo {
   filter: drop-shadow(0px 4px 4px rgba(0, 0, 0, 0.25));
   /* background: rgb(255, 202, 0); */
-  border-radius: 46%;
+  /* border-radius: 46%; */
   width: 150px;
 height: 47.83px;
 margin-top: 35px;
@@ -55,4 +55,12 @@ margin-right: 24px;
 }
 .person {
   margin: 0 19px 0 25px 
+}
+.home-title {
+  background: #FFFFFF;
+  text-align: center;
+  font-size: 24px;
+  line-height: 35px;
+  color: #002866;
+  height: 40px;
 }

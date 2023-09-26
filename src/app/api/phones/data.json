@@ -29,16 +29,37 @@
     },
     {
         "id": "5",
-        "name": "",
-        "specification": "",
-        "price": "₦725,000",
-        "image": ""
+        "name": "XIAOMI Redmi Note 12",
+        "specification": "6.67'' 6GB 128GB ROM Android 13",
+        "price": "₦ 140,000",
+        "image": "https://res.cloudinary.com/dmye53wps/image/upload/v1686852240/Screenshot_from_2023-06-15_19-01-54_fwccr9.png"
     },
     {
         "id": "6",
-        "name": "",
-        "specification": "",
-        "price": "₦ 725,000",
-        "image": "`"
+        "name": "XIAOMI Redmi Note 11",
+        "specification": "4G GLOBAL VERSION 6GB 128GB",
+        "price": "₦248,126",
+        "image": "https://www.u-buy.com.ng/productimg/?image=aHR0cHM6Ly9tLm1lZGlhLWFtYXpvbi5jb20vaW1hZ2VzL0kvNjFSOTFSd1BJb0wuX0FDX1NMMTUwMF8uanBn.jpg"
+    },
+    {
+        "id": 7,
+        "name": "OPPO Reno8 T",
+        "specification": "8GB 256GB",
+        "price": "₦158,100",
+        "image": "https://res.cloudinary.com/dmye53wps/image/upload/v1686852240/Screenshot_from_2023-06-15_19-01-54_fwccr9.png"
+    },
+    {
+        "id": 8,
+        "name": "OPPO Find X5 PRO 5G",
+        "specification": "12GB 256GB",
+        "price": "₦944,370",
+        "image": "https://m.media-amazon.com/images/I/71GJxMp+ldL._AC_SL1397_.jpg"
+    },
+    {
+        "id": 9,
+        "name": "Nokia X20",
+        "specification": "6.67 8GB 128GB Nordic Blue",
+        "price": "₦155,990",
+        "image": "https://ng.jumia.is/unsafe/fit-in/680x680/filters:fill(white)/product/32/894087/1.jpg?7281"
     }
 ]

@@ -1,4 +1,5 @@
-import Nav from "./component/Nav";
+
+import PhoneLists from "./component/PhoneLists";
 
 
 export default function Home() {
@@ -8,7 +9,7 @@ export default function Home() {
     <div className="home-title">
       Your No 1 Website for Smartphones
     </div>
-    <div>phone</div>
+    <PhoneLists />
   </div>
   </>
   )
